@@ -24,7 +24,7 @@ A configuração versionada em `vercel.json` informa à Vercel que os arquivos p
 - **Install Command:** vazio / desativado.
 - **Output Directory:** definido por `vercel.json` como `site`.
 
-Depois de conectar o repositório, publique a branch `main). Não é necessário criar um workflow do GitHub Actions para a publicação padrão pela integração Git da Vercel.
+Depois de conectar o repositório, publique a branch `main`. Não é necessário criar um workflow do GitHub Actions para a publicação padrão pela integração Git da Vercel.
 
 ## Checkout
 
