@@ -32,7 +32,7 @@ O botão de compra direciona para o checkout informado pelo responsável pela of
 
 `https://pay.hotmart.com/U108118072R`
 
-O link é configurado em `HOTMART_CHECKOUT_URL`, no início de `site/script.js`, e abre em uma nova aba.
+O link é configurado em `HOTMART_CHECKOUT_URL`, no início de `site/script.js`, e abre uma página de pagamento.
 
 ## Conteúdo e uso
 
